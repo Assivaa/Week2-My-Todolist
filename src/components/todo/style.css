@@ -5,7 +5,7 @@
 }
 
 .to_do_container{
- border:  4px solid teal  ;
+ border:  4px solid purple ;
  border-Radius:  12px  ;
  padding:  12px 24px 24px  ;
  width:  270px 
@@ -38,7 +38,7 @@
 
 .complete_button{
  background-Color:  #fff  ;
- border:  2px solid green  ;
+ border:  2px solid purple  ;
  border-Radius:  8px  ;
  cursor:  pointer  ;
  height:  40px  ;
