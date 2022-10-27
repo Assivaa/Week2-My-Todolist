@@ -1,8 +1,8 @@
 {
-  "name": "Week2-My-Todolist",
+  "name": "my-todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://assivaa.github.io/Week2-My-Todolist",
+  "homepage": "http://assivaa.github.io/my-todolist",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
